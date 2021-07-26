@@ -1,7 +1,8 @@
 praw
 pandas 
 langdetect
-re
+flask
 transformers
 datasets
 gunicorn
+torch
