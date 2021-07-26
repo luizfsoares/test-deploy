@@ -5,3 +5,4 @@ flask
 transformers
 datasets
 gunicorn
+pytorch
