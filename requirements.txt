@@ -2,7 +2,4 @@ praw
 pandas 
 langdetect
 flask
-transformers
-datasets
 gunicorn
-torch
